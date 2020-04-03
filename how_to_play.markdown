@@ -2,7 +2,7 @@
 layout: page
 title: How to Play
 permalink: /playing/
-nav_order: 5
+nav_order: 4
 ---
 
 # How to Play
@@ -36,4 +36,4 @@ Pressing 3 on the number pad corresponds with the bottom right square of the tic
 
 ---
 
-<sup><span style="color:grey">Copyright © 2018 Darrious Barger. Distributed by an [MIT license](https://opensource.org/licenses/MIT).</span></sup>
+<sup><span style="color:grey">Copyright © 2020 Darrious Barger. Distributed by an [MIT license](https://opensource.org/licenses/MIT).</span></sup>

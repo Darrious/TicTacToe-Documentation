@@ -2,7 +2,7 @@
 layout: page
 title: Materials
 permalink: /materials/
-nav_order: 3
+nav_order: 2
 ---
 
 # Materials
@@ -20,8 +20,8 @@ A keyboard is required in order to play the game. While any keyboard with number
 
 ## Compiler
 
-In order to run the program, you will need to download and install a compiler for C++. There are many of these available for free but my personal choice is [Code::Blocks](http://www.codeblocks.org/downloads).
+In order to run the program, you will need to download and install a IDE/compiler for C++. It is possible to compile C++ code without one, but that is only recommended for advanced users. There are many compilers available for free but my personal choice is [Code::Blocks](http://www.codeblocks.org/downloads).
 
 ---
 
-<sup><span style="color:grey">Copyright © 2018 Darrious Barger. Distributed by an [MIT license](https://opensource.org/licenses/MIT).</span></sup>
+<sup><span style="color:grey">Copyright © 2020 Darrious Barger. Distributed by an [MIT license](https://opensource.org/licenses/MIT).</span></sup>
