@@ -7,7 +7,7 @@ nav_order: 2
 
 # Materials
 
-You will need a keyboard (prefferably with a numberpad) to play the game. You will also need an internet connection to download the game.
+You will need a keyboard (preferably with a numberpad) to play the game. You will also need an internet connection to download the game.
 
 <span style="color:grey">*Note: This program has only been tested on Windows OS.*</span>
 

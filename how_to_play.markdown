@@ -18,7 +18,7 @@ nav_order: 4
 
 Navigate to the folder containing the downloaded files. Locate `TicTacToe.exe` and double click on it.
 
-This will open a windows console with a menu.
+This will open a Windows console with a menu.
 
 ---
 
@@ -27,7 +27,9 @@ Once `TicTacToe.exe` is ran, you should see the following text prompt in the con
 
 ![](/console_menu.png)
 
-The menu has an option to play against another player or to play against the AI. Press 1 on the keyboard and hit enter to select AI or press 2 on the keyboard and hit enter to select two players. Pressing 1 and hiting enter will start the game. Pressing 1 at the end of a match will allow you to play again.
+`Press 1` on the keyboard and hit enter to play aginst AI. `Press 2` on the keyboard and hit enter to play against another player. 
+
+After selecting a mode, `press 1` and hit enter to start the game.  You can `press 1` at the end of a game to play again.
 
 ---
 
@@ -35,13 +37,12 @@ The menu has an option to play against another player or to play against the AI.
 The game will alternate turns after every move starting with player 1. It is controlled using the numberpad on the right side of your keyboard. 
 
 
-![](\numpad.png)
-
-Press 3 on the number pad  to place an X or O on the bottom right square of the tic-tac-toe board. Press 5 on the number pad to place and X or O on the middle square of the board.
-
 ![](\game_board.png)
 
-The game also keeps track of each players wins until the program is terminated. Press 99 at any time during the game to terminate the program.
+`Press 3` on the number pad to place an `X` or `O` on the bottom right square of the tic-tac-toe board. `Press 5` on the number pad to place an `X` or `O` on the middle square of the board.
+
+
+The game also keeps track of each players wins until the program is terminated. `Press 99` at any time during the game to terminate the program.
 
 ---
 

@@ -68,7 +68,7 @@ This selection lets us know which class to use (`Game.h` vs `Computer.h`). It wi
 
 ---
 
-## setup() function <a name="main"></a>
+## setup() function <a name="setup"></a>
 
 Before we enter the game loop, we call the `Game.h` `setup()` function.
 
@@ -100,7 +100,7 @@ This function gets some of our variables set up and also initializes the `boardc
 
 ## The game loop <a name="game"></a>
 
-The game loop consists of two loops. The outer loop is the main menu. When a selection is made, we enter the inner loop. The inner look only stops when `gameOver = true`. The outer loop only stops when the user enters 99. When the outer loop is broken, the program terminates 
+The game loop consists of two loops. The outer loop is the main menu. When a selection is made, we enter the inner loop. The inner look only stops when `gameOver == true`. The outer loop only stops when the user enters 99. When the outer loop is broken, the program terminates 
 
 	// Game loop
     while(quit != 99){
@@ -130,7 +130,7 @@ Taking a look at the inner loop, we can see that a few functions are called on t
 
 ## draw() function <a name="draw"></a>
 
-`draw()` is used to display the game board. We use the numerical variables we defined earlier in the `setUp()` function.
+`draw()` is used to display the game board. We use the numerical variables we defined earlier in the `setup()` function.
 
 	void draw(){
         system("cls");
