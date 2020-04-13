@@ -8,9 +8,9 @@ nav_order: 6
 # FAQ
 ---
 
-## Does it matter which IDE/Compiler I use if I want to look at / run the code?
+## Do I need an IDE/compiler to run this?
 
-No, any compiler will do. My personal choice is [Code::Blocks](http://www.codeblocks.org/downloads).
+No, you do not need a compiler. The folder comes with an `.exe` file. If you would look to compile the code yourself or play around with it then I would recommend [Code::Blocks](http://www.codeblocks.org/downloads).
 
 ---
 
