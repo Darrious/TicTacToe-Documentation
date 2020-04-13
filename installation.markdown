@@ -8,14 +8,18 @@ nav_order: 3
 # Installation
 ---
 
-1. Navigate to the [GitHub page](https://github.com/Darrious/TicTacToe). Click the *Clone or download* button and click *Download ZIP*
+1. Navigate to the [GitHub page](https://github.com/Darrious/TicTacToe). 
 
-![](/github.png)
-
-2. Unzip the folder and make sure the three files are all in the same directory.
+	Click the *Clone or download* button and select *Download ZIP*. ![](/github.png)
 
 
-3. Open `TicTacToe.cpp` in your IDE/compiler or text editor of choice
+
+2. Unzip the folder. 
+
+	Make sure `TicTacToe.cpp`, `Computer.h`, `Game.h` and `TicTacToe.exe` are all in the same directory. ![](/folder.png)
+
+
+3. Double click `TicTacToe.exe` to run the game.
 
 
 ---

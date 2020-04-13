@@ -24,7 +24,7 @@ This project is distributed by an [MIT license](https://opensource.org/licenses/
 
 ### Contribution
 
-If you would like to become a contributor or make a contribution to this project then visit the code section to get an understanding of the code and contact me at darriousabarger@gmail.com.
+If you would like to become a contributor or make a contribution to this project then visit the code section of this documentation to get an understanding of the code and contact me at darriousabarger@gmail.com.
 
 
 ---
