@@ -8,7 +8,7 @@ nav_order: 6
 # FAQ
 ---
 
-## Does it matter which IDE/Compiler I use?
+## Does it matter which IDE/Compiler I use if I want to look at / run the code?
 
 No, any compiler will do. My personal choice is [Code::Blocks](http://www.codeblocks.org/downloads).
 
